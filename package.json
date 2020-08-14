@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/igorcarneiros/next-level-week-2#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "sqlite-async": "^1.1.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
